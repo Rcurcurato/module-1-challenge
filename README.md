@@ -6,7 +6,14 @@
 
 -I learned the importance of semantic markup and that using semantic elements makes a page much more accessible. I also learned how alt attributes on images help while using a screen reader so the person can read the contents of the image. 
 
-Website: file:///C:/Users/rcurc/OneDrive/Desktop/homework/module-1-challenge/index.html#search-engine-optimization
+Screenshot 1:
+https://github.com/Rcurcurato/module-1-challenge/blob/main/assets/Screenshot%202023-06-03%20170319.png
+
+Screenshot 2:
+https://github.com/Rcurcurato/module-1-challenge/blob/main/assets/Screenshot%202023-06-03%20170338.png
+
+URL: 
+
 
 Thank you and enjoy!
 
