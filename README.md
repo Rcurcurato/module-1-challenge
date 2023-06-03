@@ -12,7 +12,7 @@ https://github.com/Rcurcurato/module-1-challenge/blob/main/assets/Screenshot%202
 Screenshot 2:
 https://github.com/Rcurcurato/module-1-challenge/blob/main/assets/Screenshot%202023-06-03%20170338.png
 
-URL: 
+URL: https://rcurcurato.github.io/module-1-challenge/
 
 
 Thank you and enjoy!
